@@ -1,0 +1,12 @@
+optuna~=4.1.0
+numpy~=2.0.2
+pettingzoo~=1.24.3
+torch~=2.5.1
+matplotlib~=3.9.2
+tensordict~=0.6.2
+tensorboard~=2.18.0
+torchvision~=0.20.1
+torchdata~=0.7.1
+torchrl~=0.6.0
+tqdm~=4.67.0
+vmas~=1.4.3
