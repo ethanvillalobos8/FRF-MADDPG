@@ -41,7 +41,7 @@ This project demonstrates how to train multiple agents using the MADDPG algorith
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/maddpg-simple-tag.git
+   git clone https://github.com/ethanvillalobos8/FRF-MADDPG.git
    cd maddpg-simple-tag
    ```
 2. **Create a Virtual Environment** (optional but recommended)
